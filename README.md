@@ -13,12 +13,17 @@
 
 
 <div align="center" class='container'>
-<h2 align="center"> ### 🛠 Tecnologias envolvidas</h2>
-<p align="center"><a href="#https://www.python.org/">Python</a></p>
-<p align="center"><a href="https://www.djangoproject.com/">Django</a></p>
-<p align="center"><a href="https://www.postgresql.org/">PostgreSQL</a></p>
+<h2 align="center"> 🛠 Tecnologias envolvidas</h2>
+<p align="center"><a href="https://www.python.org/"  target="_blank">Python</a></p>
+<p align="center"><a href="https://www.djangoproject.com/"  target="_blank">Django</a></p>
+<p align="center"><a href="https://www.postgresql.org/"  target="_blank">PostgreSQL</a></p>
 </div>
 
+
+<div align="center" class='container'>
+<h2 align="center"> Pré-requisitos </h2>
+	<p align="center">$ pip install requirements.txt</p>
+</div>
 
 <h1 align="center">
   <img alt="alura_receitas" title="#alura_receitas" src="./static/img/final_result.gif" width="700" height="450"/>
