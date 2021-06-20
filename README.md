@@ -1,12 +1,10 @@
 
 <h1 align="center">Receitas-django</h1>
-<div class="col-12 col-lg-8">
+<div >
 	<h2 align="center">Alura cursos -</h2>
+	<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/>
 </div>
 
-<div class="col-12 col-lg-8" align="right">
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/>
-</div>
 	<p align="center"> Desenvolvimento de um Web App de receitas usando o framework Django </p>
 
  
