@@ -8,15 +8,15 @@
 	🚧  Django App 🚀 Em construção...  🚧
 </h4>
 <div align="center">
-	<p align="center"><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="100" height="100"/></p>
+	<p align="center"><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/></p>
 </div>
 
 
 <div align="center" class='container'>
-<h4 align="center"> ### 🛠 Tecnologias envolvidas</h4>
+<h2 align="center"> ### 🛠 Tecnologias envolvidas</h2>
 <p align="center"><a href="https:https://www.python.org/">Python</a></p>
-- [PostgreSQL](https://https://www.postgresql.org/)
-- [Django](https://https://www.djangoproject.com/)
+<p align="center"><a href="https://https://www.djangoproject.com/">Django</a></p>
+<p align="center"><a href="https://https://www.postgresql.org/">PostgreSQL</a></p>
 </div>
 
 
