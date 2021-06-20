@@ -12,12 +12,12 @@
 </div>
 
 
-### 🛠 Tecnologias envolvidas
-As seguintes ferramentas foram usadas na construção do projeto:
-- [Python](https:https://www.python.org/)
+<div align="center">
+<h4 align="center"> ### 🛠 Tecnologias envolvidas</h4>
+<p align="center"><a href="https:https://www.python.org/">Python</a></p>
 - [PostgreSQL](https://https://www.postgresql.org/)
 - [Django](https://https://www.djangoproject.com/)
-
+</div>
 
 
 <h1 align="center">
