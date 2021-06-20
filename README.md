@@ -1,15 +1,15 @@
 
 <h1 align="center">Receitas-django</h1>
-<h2 align="center">Alura cursos - Django</h2>
+<h2 align="center">Alura cursos - <div align="right">
+	<p align="center"><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/></p>
+</div></h2>
 <p align="center"> Desenvolvimento de um Web App de receitas usando o framework Django </p>
 
  
 <h4 align="center"> 
 	🚧  Django App 🚀 Em construção...  🚧
 </h4>
-<div align="center">
-	<p align="center"><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/></p>
-</div>
+
 
 
 <p align="center">
