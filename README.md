@@ -9,7 +9,7 @@
 </h4>
 
 <h1 align="center">
-  <img alt="alura_receitas" title="#alura_receitas" src="./static/img/final_result.gif" width="500" height="500"/>
+  <img alt="alura_receitas" title="#alura_receitas" src="./static/img/final_result.gif" width="500" height="300"/>
 </h1>
 
 <p align="center">
