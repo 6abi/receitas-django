@@ -14,9 +14,9 @@
 
 <div align="center" class='container'>
 <h2 align="center"> ### 🛠 Tecnologias envolvidas</h2>
-<p align="center"><a href="https:https://www.python.org/">Python</a></p>
-<p align="center"><a href="https://https://www.djangoproject.com/">Django</a></p>
-<p align="center"><a href="https://https://www.postgresql.org/">PostgreSQL</a></p>
+<p align="center"><a href="https://www.python.org/">Python</a></p>
+<p align="center"><a href="https://www.djangoproject.com/">Django</a></p>
+<p align="center"><a href="https://www.postgresql.org/">PostgreSQL</a></p>
 </div>
 
 
