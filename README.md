@@ -2,7 +2,7 @@
 <h1 align="center">Receitas-django</h1>
 <div align="center">
 	<h2 align="center">Alura cursos </h2>
-	<a href="https://www.djangoproject.com/" target="_blank" align = "center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/>
+	<a href="https://www.djangoproject.com/" target="_blank" align = "center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/></a>
 	
 </div>
 
