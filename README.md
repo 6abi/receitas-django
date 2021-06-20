@@ -15,9 +15,9 @@
 
 	<h4>As seguintes ferramentas foram usadas na construção do projeto:</h4>
 
-	- [Python](https:https://www.python.org/)
-	- [PostgreSQL](https://https://www.postgresql.org/)
-	- [Django](https://https://www.djangoproject.com/)
+	<p> - [Python](https:https://www.python.org/)</p>	
+	<p> - [PostgreSQL](https://https://www.postgresql.org/)</p>
+	<p> - [Django](https://https://www.djangoproject.com/)</p>
 </div>
 
 <h1 align="center">
