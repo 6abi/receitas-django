@@ -11,13 +11,13 @@
 	<p align="center"><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="100" height="100"/></p>
 </div>
 
-<div align="center">
+
 ### 🛠 Tecnologias envolvidas
 As seguintes ferramentas foram usadas na construção do projeto:
 - [Python](https:https://www.python.org/)
 - [PostgreSQL](https://https://www.postgresql.org/)
 - [Django](https://https://www.djangoproject.com/)
-</div>
+
 
 
 <h1 align="center">
