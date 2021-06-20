@@ -12,7 +12,7 @@
 </div>
 
 
-<div align="center">
+<div align="center" class='container'>
 <h4 align="center"> ### 🛠 Tecnologias envolvidas</h4>
 <p align="center"><a href="https:https://www.python.org/">Python</a></p>
 - [PostgreSQL](https://https://www.postgresql.org/)
