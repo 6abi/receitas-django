@@ -10,9 +10,13 @@
 <div align="center">
 	<p align="center"><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="100" height="100"/></p>
 </div>
+<div align="center">
+	<h2> Tecnologias envolvidas </h2>
+	
+</div>
 
 <h1 align="center">
-  <img alt="alura_receitas" title="#alura_receitas" src="./static/img/final_result.gif" width="700" height="500"/>
+  <img alt="alura_receitas" title="#alura_receitas" src="./static/img/final_result.gif" width="700" height="450"/>
 </h1>
 
 <p align="center">
