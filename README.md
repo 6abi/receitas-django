@@ -36,7 +36,7 @@
 
 
 <div align="center" class='container'>
-<h2 align="center">
+<h2 align="center"> Resultado da aplicação criada
   <img alt="alura_receitas" title="#alura_receitas" src="./static/img/final_result.gif" width="700" height="450"/>
 </h2>
 </div>
