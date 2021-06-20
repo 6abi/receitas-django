@@ -12,6 +12,15 @@
 </div>
 
 
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#roadmap">Roadmap</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#contribuicao">Contribuição</a> • 
+ <a href="#licenc-a">Licença</a> • 
+ <a href="#autor">Autor</a>
+</p>
+
 <div align="center" class='container'>
 <h2 align="center"> 🛠 Tecnologias envolvidas</h2>
 <p align="center"><a href="https://www.python.org/"  target="_blank">Python</a></p>
@@ -25,16 +34,10 @@
 	<p align="center">$ pip install requirements.txt</p>
 </div>
 
-<h1 align="center">
-  <img alt="alura_receitas" title="#alura_receitas" src="./static/img/final_result.gif" width="700" height="450"/>
-</h1>
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
+<div align="center" class='container'>
+<h2 align="center">
+  <img alt="alura_receitas" title="#alura_receitas" src="./static/img/final_result.gif" width="700" height="450"/>
+</h2>
+</div>
 
