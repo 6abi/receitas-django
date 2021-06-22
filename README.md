@@ -43,22 +43,17 @@
 <!-- Resultados -->
 <!-- Resultado parcial -->
 <div align="center" class='container'>
-<h2 align="center"> 
-	<p align="center">Resultado da aplicação criada - Parte 1 </p>
+	<h2 align="center">>Resultado da aplicação criada - Parte 1 </h2>
 </div>
 <div align="center" class='result'>
 	<img alt="alura_receitas" title="#alura_receitas" src="./static/img/final_result.gif" width="700" height="450"/>
 </div>
 <!-- Resultado parcial -->	
 <div align="center" class='container'>
-	<h2 align="center"> 
-	<p align="center">Resultado da aplicação criada - Parte 2 </p>
-		<p align="center">Filtros, busca e Admin </p>
+	<h2 align="center"> Resultado da aplicação criada - Parte 2</h2>
+	<p align="center">Filtros, busca e Admin </p>
 </div>
 <div align="center" class='result'>
 	<img alt="alura_receitas" title="#alura_receitas" src="./static/img/final_result_part2.gif" width="700" height="450"/>
 </div>
 	
-	
-	receitas-django/static/img/final_result_part2.gif
-
