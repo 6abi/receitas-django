@@ -45,14 +45,26 @@
 	<h2 align="center">>Resultado da aplicação criada - Parte 1 </h2>
 </div>
 <div align="center" class='result'>
-	<img alt="alura_receitas" title="#alura_receitas" src="./static/img/final_result.gif" width="700" height="450"/>
+	<img alt="resultado_parte1" title="#resultado_parte1" src="./static/img/final_result.gif" width="700" height="450"/>
 </div>
 <!-- Resultado parcial -->	
 <div align="center" class='container'>
 	<h2 align="center"> Resultado da aplicação criada - Parte 2</h2>
+	<h4 align="center">Autenticaçãono Django3 </h4>
 	<p align="center">Filtros, busca e Admin </p>
 </div>
 <div align="center" class='result'>
-	<img alt="alura_receitas" title="#alura_receitas" src="./static/img/final_result_part2.gif" width="700" height="450"/>
+	<img alt="resultado_parte2" title="#resultado_parte2" src="./static/img/final_result_part2.gif" width="700" height="450"/>
 </div>
-	
+
+<!-- Resultado parcial -->	
+<div align="center" class='container'>
+	<h2 align="center"> Resultado da aplicação criada - Parte 3</h2>
+	<h4 align="center">Autenticaçãono Django3 </h4>
+	<p align="center">Formulários de Cadastro e Login </p>
+	<p align="center">Requisições e Autenticações </p>
+	<p align="center">Mensagens de Erro e Sucesso </p>
+</div>
+<div align="center" class='result'>
+	<img alt="resultado_parte3" title="#resultado_parte3" src="./static/img/final_result_part3.gif" width="700" height="450"/>
+</div>
