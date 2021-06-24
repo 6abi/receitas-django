@@ -44,6 +44,14 @@
 </div>
 
 <!-- Resultados -->
+<!-- Resultado banco de dados -->
+<div align="center" class='container'>
+	<h2 align="center">>Resultado banco de dados</h2>
+</div>
+<div align="center" class='result'>
+	<img alt="resultado_postgre" title="#resultado_postgre" src="./static/img/resultado_postgre.gif" width="700" height="450"/>
+</div>
+
 <!-- Resultado parcial -->
 <div align="center" class='container'>
 	<h2 align="center">>Resultado da aplicação criada - Parte 1 </h2>
