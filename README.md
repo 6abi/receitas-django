@@ -84,6 +84,7 @@
 	<h2 align="center"> Resultado da aplicação criada - Parte 4</h2>
 	<h4 align="center">Paginação </h4>
 	<p align="center">Limitação de exibição de intens por página e passagem de páginas </p>
+	<p align="center">Editar e excluir receitas com usuário logado </p>
 </div>
 <div align="center" class='result'>
 	<img alt="resultado_parte4_1" title="#resultado_parte4_1" src="./static/img/final_result_part4_1.gif" width="700" height="450"/>
