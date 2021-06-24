@@ -40,6 +40,7 @@
 <div align="center" class='container'>
 <h2 align="center"> Pré-requisitos </h2>
 	<p align="center">$ pip install requirements.txt</p>
+	<p align="center">$ Instalação e configuração do banco de dados  - PostgreSQL</p>
 </div>
 
 <!-- Resultados -->
