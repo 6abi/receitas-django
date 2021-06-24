@@ -50,7 +50,7 @@
 <!-- Resultado parcial -->	
 <div align="center" class='container'>
 	<h2 align="center"> Resultado da aplicação criada - Parte 2</h2>
-	<h4 align="center">Autenticaçãono Django3 </h4>
+	<h4 align="center">Autenticação no Django3 </h4>
 	<p align="center">Filtros, busca e Admin </p>
 </div>
 <div align="center" class='result'>
@@ -60,7 +60,7 @@
 <!-- Resultado parcial -->	
 <div align="center" class='container'>
 	<h2 align="center"> Resultado da aplicação criada - Parte 3</h2>
-	<h4 align="center">Autenticaçãono Django3 </h4>
+	<h4 align="center">Autenticação no Django3 </h4>
 	<p align="center">Formulários de Cadastro e Login </p>
 	<p align="center">Requisições e Autenticações </p>
 	<p align="center">Mensagens de Erro e Sucesso </p>
