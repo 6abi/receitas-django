@@ -68,3 +68,23 @@
 <div align="center" class='result'>
 	<img alt="resultado_parte3" title="#resultado_parte3" src="./static/img/final_result_part3.gif" width="700" height="450"/>
 </div>
+
+<!-- Resultado parcial -->	
+<div align="center" class='container'>
+	<h2 align="center"> Resultado da aplicação criada - Parte 4</h2>
+	<h4 align="center">Boas práticas </h4>
+	<p align="center">Criação de pastas para Apps e views </p>
+</div>
+<div align="center" class='result'>
+	<img alt="resultado_parte4_1" title="#resultado_parte4_1" src="./static/img/final_result_part4_1.gif" width="700" height="450"/>
+</div>
+
+<!-- Resultado parcial -->	
+<div align="center" class='container'>
+	<h2 align="center"> Resultado da aplicação criada - Parte 4</h2>
+	<h4 align="center">Paginação </h4>
+	<p align="center">Limitação de exibição de intens por página e passagem de páginas </p>
+</div>
+<div align="center" class='result'>
+	<img alt="resultado_parte4_2" title="#resultado_parte4_2" src="./static/img/final_result_part2_2.gif" width="700" height="450"/>
+</div>
