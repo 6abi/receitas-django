@@ -92,9 +92,12 @@
 	<img alt="resultado_parte4_1" title="#resultado_parte4_1" src="./static/img/final_result_part4_1.gif" width="700" height="450"/>
 </div>
 
-.box {
-  display: flex;
-  align-items: stretch;
+<script>
+	.box {
+	  display: flex;
+	  align-items: stretch;
 }
+	
+</script>
    
 
