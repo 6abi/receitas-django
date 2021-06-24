@@ -76,7 +76,7 @@
 	<p align="center">Criação de pastas para Apps e views </p>
 </div>
 <div align="center" class='result'>
-	<img alt="resultado_parte4_1" title="#resultado_parte4_1" src="./static/img/final_result_part4_1.gif" width="700" height="450"/>
+	<img alt="resultado_parte4_2" title="#resultado_parte4_2" src="./static/img/final_result_part4_2.gif" width="700" height="450"/>
 </div>
 
 <!-- Resultado parcial -->	
@@ -86,5 +86,5 @@
 	<p align="center">Limitação de exibição de intens por página e passagem de páginas </p>
 </div>
 <div align="center" class='result'>
-	<img alt="resultado_parte4_2" title="#resultado_parte4_2" src="./static/img/final_result_part2_2.gif" width="700" height="450"/>
+	<img alt="resultado_parte4_1" title="#resultado_parte4_1" src="./static/img/final_result_part4_1.gif" width="700" height="450"/>
 </div>
