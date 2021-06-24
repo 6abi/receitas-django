@@ -3,8 +3,7 @@
 <h1 align="center">Receitas-django</h1>
 
 <div class="box" align="center" display='flex'>
-	<a href="https://www.djangoproject.com/" target="_blank" align = "center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/></a>
-	<a href="https://www.postgresql.org/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+	<a href="https://www.djangoproject.com/" target="_blank" align = "center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/></a><a href="https://www.postgresql.org/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
 </div>
 
 
