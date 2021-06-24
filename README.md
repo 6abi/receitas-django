@@ -2,10 +2,10 @@
  <!-- Explicação do projeto -->
 <h1 align="center">Receitas-django</h1>
 
-<p align="center">
+<div class="box" align="center">
 	<a href="https://www.djangoproject.com/" target="_blank" align = "center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/></a>
 	<a href="https://www.postgresql.org/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" bottom ='-30'/></a>
-</p>
+</div>
 
 
 <p align="center"> Desenvolvimento de um Web App de receitas usando o framework Django </p>
