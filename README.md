@@ -28,10 +28,12 @@
 
 <!-- Tecnologias envolvidas -->
 <div align="center" class='container'>
-<h2 align="center"> 🛠 Tecnologias envolvidas</h2>
-<p align="center"><a href="https://www.python.org/"  target="_blank">Python</a></p>
-<p align="center"><a href="https://www.djangoproject.com/"  target="_blank">Django</a></p>
-<p align="center"><a href="https://www.postgresql.org/"  target="_blank">PostgreSQL</a></p>
+	<h2 align="center"> 🛠 Tecnologias envolvidas</h2>
+	<ul>
+		<li><a href="https://www.python.org/"  target="_blank">Python</a></li>
+		<li><a href="https://www.djangoproject.com/"  target="_blank">Django</a></li>
+		<li><a href="https://www.postgresql.org/"  target="_blank">PostgreSQL</a></li>                                       
+	</ul>
 </div>
 
 <!-- Requirements -->
