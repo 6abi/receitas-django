@@ -1,10 +1,11 @@
 
  <!-- Explicação do projeto -->
 <h1 align="center">Receitas-django</h1>
-<div align="center">
-	<a href="https://www.djangoproject.com/" target="_blank" align = "center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70" height="70"/></a>
-	
+
+<div class="box" align="center" display='flex'>
+	<a href="https://www.djangoproject.com/" target="_blank" align = "center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="80" height="80"/></a><a href="https://www.postgresql.org/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="120" height="60" alt="PostgreSQL" /></a>
 </div>
+
 
 <p align="center"> Desenvolvimento de um Web App de receitas usando o framework Django </p>
 
@@ -27,19 +28,30 @@
 
 <!-- Tecnologias envolvidas -->
 <div align="center" class='container'>
-<h2 align="center"> 🛠 Tecnologias envolvidas</h2>
-<p align="center"><a href="https://www.python.org/"  target="_blank">Python</a></p>
-<p align="center"><a href="https://www.djangoproject.com/"  target="_blank">Django</a></p>
-<p align="center"><a href="https://www.postgresql.org/"  target="_blank">PostgreSQL</a></p>
+	<h2 align="center"> 🛠 Tecnologias envolvidas</h2>
+	<ul>
+		<li><a href="https://www.python.org/"  target="_blank">Python</a></li>
+		<li><a href="https://www.djangoproject.com/"  target="_blank">Django</a></li>
+		<li><a href="https://www.postgresql.org/"  target="_blank">PostgreSQL</a></li>                                       
+	</ul>
 </div>
 
 <!-- Requirements -->
 <div align="center" class='container'>
 <h2 align="center"> Pré-requisitos </h2>
 	<p align="center">$ pip install requirements.txt</p>
+	<p align="center">$ Instalação e configuração do banco de dados  - PostgreSQL</p>
 </div>
 
 <!-- Resultados -->
+<!-- Resultado banco de dados -->
+<div align="center" class='container'>
+	<h2 align="center">>Resultado banco de dados</h2>
+</div>
+<div align="center" class='result'>
+	<img alt="resultado_postgre" title="#resultado_postgre" src="./static/img/resultado_postgre.gif" width="700" height="450"/>
+</div>
+
 <!-- Resultado parcial -->
 <div align="center" class='container'>
 	<h2 align="center">>Resultado da aplicação criada - Parte 1 </h2>
@@ -89,3 +101,7 @@
 <div align="center" class='result'>
 	<img alt="resultado_parte4_1" title="#resultado_parte4_1" src="./static/img/final_result_part4_1.gif" width="700" height="450"/>
 </div>
+
+
+   
+
