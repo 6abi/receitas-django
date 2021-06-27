@@ -93,7 +93,7 @@
 
 <!-- Resultado parcial -->	
 <div align="center" class='container'>
-	<h2 align="center"> Resultado da aplicação criada - Parte 4</h2>
+	<h2 align="center"> Resultado da aplicação criada - Parte 4 - final</h2>
 	<h4 align="center">Paginação </h4>
 	<p align="center">Limitação de exibição de intens por página e passagem de páginas </p>
 	<p align="center">Editar e excluir receitas com usuário logado </p>
