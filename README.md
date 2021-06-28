@@ -12,7 +12,7 @@
 
  <!-- Status do projeto -->
 <h4 align="center"> 
-	🚧  Django App 🚀 Em construção...  🚧
+	🚧  Django App ✔ Finalizado!  🚧
 </h4>
 
 
